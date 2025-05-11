@@ -39,5 +39,5 @@ You can easily modify or extend the dataset by adding more distraction classes.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/driver-drowsiness-yolov11.git
-   cd driver-drowsiness-yolov11
+   git clone https://github.com/harishkadhir/Driver-Drowsiness.git
+   
