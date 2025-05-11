@@ -24,7 +24,8 @@ This real-time AI system monitors drivers for signs of drowsiness, distraction, 
 
 ## 📁 Dataset
 
-The dataset used for training includes several classes:
+The dataset used for training includes several classes:![GIF_20250511_102548](https://github.com/user-attachments/assets/2f248faf-7962-4339-bd48-fb5b1b7b7513)
+
 
 - **drowsy**
 - **mobile**
@@ -40,4 +41,6 @@ You can easily modify or extend the dataset by adding more distraction classes.
 1. Clone the repository:
    ```bash
    git clone https://github.com/harishkadhir/Driver-Drowsiness.git
+
+   
    
